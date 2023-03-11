@@ -1,5 +1,5 @@
 <h1 align="center">Convesor de magnitudes</h1>
-<img src="https://dev.java/assets/images/java-logo-vector.png" align="right"
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" align="right"
      alt="Proyecto hecho con Java" width="120" height="178">
 <h2>Descripción de su proyecto</h2>
 <p>
