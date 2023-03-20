@@ -13,6 +13,10 @@ public class Temperatura extends Magnitud {
         }
         return null;
     }
+    public static String[] unidadesTemperatura() {
+    	String[] temperaturas = {"K","C","F"};
+    	return temperaturas;
+    }
     private Temperatura kelvinTo(String nuevaUnidad) {
         float nuevoNumero = 0;
         if(nuevaUnidad.equals("C")){

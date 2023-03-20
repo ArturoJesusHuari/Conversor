@@ -21,6 +21,6 @@ public abstract class Magnitud {
     }
     @Override
     public String toString() {
-        return Math.round(getNumero() * 100.0) / 100.0 + " " + this.getUnidad();
+        return String.valueOf(Math.round(getNumero() * 100.0) / 100.0);
     }
 }

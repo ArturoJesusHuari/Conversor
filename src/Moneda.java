@@ -5,12 +5,17 @@ public class Moneda extends Magnitud{
         super(numero, unidad);
     }
     private void equivalentesADolar(){
-        this.cambio.put("sol",3.78f);
+    	//Actualizado el 19/03/20023
+        this.cambio.put("sol",3.77f);
         this.cambio.put("dolar", 1f);
         this.cambio.put("euro", 0.94f);
-        this.cambio.put("libras esterlinas", 0.83f);
-        this.cambio.put("yen japonés", 135.84f);
-        this.cambio.put("won sul-coreano", 1295.78f);
+        this.cambio.put("libras esterlinas", 0.82f);
+        this.cambio.put("yen japonés", 131.85f);
+        this.cambio.put("won sul-coreano", 1311.70f);
+    }
+    public static String[] unidadesMonedas() {
+    	String[] monedas = {"sol","dolar","euro","libras esterlinas","yen japonés","won sul-coreano"};
+    	return monedas;
     }
     protected Moneda convertir(String nuevaMoneda){
         equivalentesADolar();
