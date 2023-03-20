@@ -1,6 +1,6 @@
 <h1 align="center">Convesor de magnitudes</h1>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" align="right"
-     alt="Proyecto hecho con Java" width="120" height="178">
+     alt="Proyecto hecho con Java" width="120" height="200">
 <h2>Descripción de su proyecto</h2>
 <p>
 Este proyecto en Java es una herramienta de conversión de valores monetarios, masa y temperatura. La estructura del proyecto se basa en una clase abstracta llamada "Magnitud", que sirve como base para las clases "Moneda", "Masa" y "Temperatura", que heredan de ella.
