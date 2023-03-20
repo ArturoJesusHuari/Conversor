@@ -1,5 +1,5 @@
 <h1 align="center">Convesor de magnitudes</h1>
-<img src="https://dev.java/assets/images/java-logo-vector.png" align="right"
+<img src="[https://dev.java/assets/images/java-logo-vector.png](https://assets.stickpng.com/thumbs/58480979cef1014c0b5e4901.png)" align="right"
      alt="Proyecto hecho con Java" width="120" height="178">
 <h2>Descripción de su proyecto</h2>
 <p>
@@ -17,6 +17,6 @@ En resumen, este proyecto utiliza la programación orientada a objetos para crea
 <h2>Cómo usar</h2>
 <p>Para utilizar este proyecto, simplemente descargue el código fuente y ábralo en su entorno de desarrollo Java favorito.
 Después, puede utilizar las clases y métodos proporcionados para convertir valores monetarios, masa y temperatura según sea necesario.</p>
-<video src="ejecucion/video.mp4" controls></video>
+[![Watch the video]](ejecucion/video.mp4)
 <h2>Autores del proyecto</h2>
 <p>Este proyecto fue creado por Arturo Huari. Puede encontrar más información sobre mí y mi experiencia profesional en mi perfil de <a href="https://www.linkedin.com/in/arturohuari/">LinkedIn</a>.</p>
